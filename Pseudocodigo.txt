@@ -1,0 +1,40 @@
+
+. Declarar variáveis "altura", "Area", "Perimetro", "Base" e "raio", "lado1", "lado2", "lado3".
+
+. Pergunte ao usuário o tipo de forma geométrica(Polígono ou circunferência).
+
+. Se a resposta for "Polígono":
+
+. Pergunte ao usuario o valor do primeiro número na variável "altura".
+
+. Pergunte ao usuário o valor do segundo número na variável "Base".
+
+. Pergunte ao usuário se a figura é um triângulo("Sim" , "Não").
+
+. Se a resposta for "Sim":
+
+. Pergunte ao usuario o valor do primeiro número na variável "lado1".
+
+. Pergunte ao usuario o valor do primeiro número na variável "lado2".
+
+. Pergunte ao usuario o valor do primeiro número na variável "lado3".
+
+. Some "lado1" e "lado2" e "lado3" e armazene na variável "Perímetro".
+
+. Multiplique "Base" e "altura" e armazene na variável "Area".
+
+. Se a resposta for "Não":
+
+. Multiplique "Base" e "2" e some com "altura" multiplicado por "2" e armazene na variável "Perimetro".
+
+. Multiplique "Base" e "altura" e armazene na variavel "Area". 
+
+. Se a resposta for "Circunferência" :
+
+. Pergunte ao usuário o valor do primeiro número na variável "raio".
+
+. Multiplique "raio" e "6.28" e guarde o resultado na variável "Perímetro"
+
+. Eleve "raio" ao quadrado e multiplque por "3.14" e guarde o resultado na variável "Area".
+
+. Mostre ao usuário a Area e o Perímetro.
